@@ -21,22 +21,11 @@
 
 ## 🚀 About Me
 
-```python
-class AerospaceEngineer:
-    def __init__(self):
-        self.name       = "Syed Uzair Ahmed"
-        self.degree     = "MEng Aerospace Engineering @ Colorado State University"
-        self.gpa        = 3.5
-        self.interests  = ["Orbital Mechanics", "CFD", "Machine Learning", "Systems Engineering"]
-        self.tools      = ["Python", "MATLAB", "Ansys Fluent", "GMAT", "TensorFlow"]
-        self.currently  = "Exploring trajectory optimization & AR systems for aerospace"
+I'm an aerospace engineer pursuing my MEng at **Colorado State University**, working at the intersection of orbital mechanics, computational fluid dynamics, and machine learning. I build simulations, design missions, and translate complex engineering problems into clean, data-driven solutions.
 
-    def hello(self):
-        return "I build simulations, design missions, and push aerospace forward 🛸"
-```
+Before CSU, I spent a year as a **Technical Author at Capgemini (Airbus A220)** — writing and reviewing flight-critical aircraft manuals to 97%+ accuracy standards. That experience gave me a sharp eye for precision and a deep respect for documentation in safety-critical systems.
 
-> 🎓 **Currently pursuing MEng @ CSU** — working at the intersection of aerospace engineering and data-driven systems.
-> Previously a **Technical Author at Capgemini (Airbus A220)** — ensuring flight-critical documentation accuracy above 97%.
+Right now I'm focused on trajectory optimization, AR systems for aerospace, and pushing the boundaries of what simulation tools can do. I'm actively looking for opportunities in **commercial aviation, space startups, and hybrid technical-operations roles** within my OPT window.
 
 ---
 
@@ -123,7 +112,7 @@ Investigated off-the-shelf components for a multispectral CubeSat — reducing c
 
 | Degree | Institution | Period | GPA |
 |---|---|---|---|
-| 🎓 **MEng — Aerospace Engineering** | Colorado State University | Jan 2025 – Jan 2027 | 3.55 |
+| 🎓 **MEng — Aerospace Engineering** | Colorado State University | Jan 2025 – Jan 2027 | 3.5 |
 | ✈️ **BTech — Aerospace Engineering** | University of Petroleum & Energy Studies | Aug 2018 – May 2023 | 3.0 |
 
 ---
