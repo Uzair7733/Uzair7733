@@ -123,7 +123,7 @@ Investigated off-the-shelf components for a multispectral CubeSat — reducing c
 
 | Degree | Institution | Period | GPA |
 |---|---|---|---|
-| 🎓 **MEng — Aerospace Engineering** | Colorado State University | Jan 2025 – Jan 2027 | 3.5 |
+| 🎓 **MEng — Aerospace Engineering** | Colorado State University | Jan 2025 – Jan 2027 | 3.55 |
 | ✈️ **BTech — Aerospace Engineering** | University of Petroleum & Energy Studies | Aug 2018 – May 2023 | 3.0 |
 
 ---
