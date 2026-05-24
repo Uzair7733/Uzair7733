@@ -158,7 +158,6 @@ Investigated off-the-shelf components for a multispectral CubeSat — reducing c
 
 ```
 2025 – Now   🎓  MEng Aerospace @ Colorado State University, Fort Collins CO
-2024 – Now   📊  MBA Operations Management @ UPES (dual degree)
 2023 – 2024  ✈️  Technical Author (A220) @ Capgemini – Airbus Canada
                   └── AMP, IPDP, SRP, CMM manuals | 97%+ accuracy | Automation pipeline
 2022         🔬  Research Intern @ Valles Marineris Int. Pvt. Ltd.
